@@ -22,12 +22,3 @@ I am Harry Sudana and I am interested in mobile and web technology.
   <a href=""><img align="left" src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=512" alt="HTML5 logo" title="HTML5" width="21px" /></a>
   <a href=""><img align="left" src="https://cdn.iconscout.com/icon/free/png-512/free-css-131-722685.png?f=webp&w=512" alt="HTML5 logo" title="HTML5" width="21px" /></a>
   <a href=""><img align="left" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="HTML5 logo" title="HTML5" width="21px" /></a>
-  <br>
-  <br>
-### Github Statistic
-<p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=harrysudanaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harrysudanaa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
